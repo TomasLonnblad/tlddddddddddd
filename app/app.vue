@@ -1,0 +1,3 @@
+<script setup lang="ts">
+const count = ref(1) // ref is auto-imported
+</script>
